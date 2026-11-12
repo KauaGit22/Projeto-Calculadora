@@ -1,5 +1,5 @@
 # Projeto-Calculadora
-  Este repositório contém arquivos das aulas de linux e hospedagem de código.
+  Este repositório contém arquivos das aulas de linux, desenvolvimento de códigos em python e hospedagem de código.
   
 # Como executar
 
