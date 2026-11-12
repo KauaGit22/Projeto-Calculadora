@@ -1,5 +1,6 @@
 # Projeto-Calculadora
-  Este repositório contém arquivos das aulas de linux e hospedagem de código
+ . Este repositório contém arquivos das aulas de linux e hospedagem de código
+  
 # Como executar
 
 1 - Abra o terminal linux.
@@ -7,5 +8,12 @@
 3 - Caso necessário, conceda permissão de execução ao arquivo.
 4 - Execute o arquivo ./calculadora.sh
 
-# Explicação do código
+# Requisitos
+. Ter o python 3 instalado
+. Ter a permissão para executar o comando
+. Ter sistema operacional compatível com script .sh
+
+# Objetivo do código
+. Fazer de forma simples uma equação
+
 
