@@ -1,0 +1,24 @@
+kaua@PCDOKAKA:~$ nano
+kaua@PCDOKAKA:~$ ls
+modulo1  nano.491.save
+kaua@PCDOKAKA:~$ cd
+kaua@PCDOKAKA:~$ cd modulo1/linux/
+kaua@PCDOKAKA:~/modulo1/linux$ nano calculadora.sh
+kaua@PCDOKAKA:~/modulo1/linux$ ll
+total 32
+drwxr-xr-x 2 kaua kaua  4096 Mar 23 21:19 ./
+drwxr-xr-x 6 kaua kaua  4096 Mar 16 22:50 ../
+-rw-r--r-- 1 kaua kaua   156 Mar 23 21:19 calculadora.sh
+-rw-r--r-- 1 kaua kaua 15431 Jul 24  2025 cpuinfo
+-rwxr-xr-x 1 kaua kaua   150 Mar 16 22:47 meu_primeiro_script.sh*
+kaua@PCDOKAKA:~/modulo1/linux$ ./calculadora.sh
+-bash: ./calculadora.sh: Permission denied
+kaua@PCDOKAKA:~/modulo1/linux$ chmod +x calculadora.sh
+kaua@PCDOKAKA:~/modulo1/linux$ ./calculadora.sh
+Iniciando o Script
+O diretório atual é PWD$
+Finalizando o Script
+kaua@PCDOKAKA:~/modulo1/linux$ cd ../
+kaua@PCDOKAKA:~/modulo1$ ls
+calculadora  git  linux  logica  python
+kaua@PCDOKAKA:~/modulo1$
