@@ -12,14 +12,14 @@
 4 - Execute o arquivo ./calculadora.sh
 
 # Requisitos
- Ter o python 3 instalado.
+- Ter o python 3 instalado.
  
- Ter a permissão para executar o comando.
+- Ter a permissão para executar o comando.
  
- Ter sistema operacional compatível com script .sh
+- Ter sistema operacional compatível com script .sh
  
 
 # Objetivo
- Praticar conceitos de programação na linguagem de python.
+ Praticar conceitos de programação na linguagem de python, criar uma calculadora automatizada.
 
 
